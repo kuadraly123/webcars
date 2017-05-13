@@ -19,5 +19,5 @@
 
 # BOSQUEJO
 
-![enter image description here]("https://github.com/egaitan18/webcars/dashboard.png")
+![enter image description here]("http://oi64.tinypic.com/2zdsmdx.jpg")
 
