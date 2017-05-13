@@ -19,5 +19,5 @@
 
 # BOSQUEJO
 
-![enter image description here]("http://oi64.tinypic.com/2zdsmdx.jpg")
+![](http://oi64.tinypic.com/2zdsmdx.jpg)
 
