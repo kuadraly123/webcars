@@ -5,7 +5,7 @@
 
 
 # **DESCRIPCIÓN **
-----
+
 ##### WebCars es una aplicación web que permite interactuar con un dataset basado en diferentes modelos de autos, contiene todas las marcas, modelos específicos y marcas vendidas en USA así como la ciudad de elaboración.
 
 * **¿Qué tipo de aplicación proponen construir a partir del conjunto de datos seleccionado?**
@@ -18,6 +18,6 @@
 
 
 # **BOSQUEJO**
-----
+
 
 
