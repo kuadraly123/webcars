@@ -15,6 +15,10 @@
 
 * **¿Qué pasos tienes que realizar o cubrir para poder consumir información a partir del conjunto de datos seleccionado?**
 
+Tendríamos que entrar a la página principal para tener acceso a la información, una vez estando ahí tenemos diferentes pestañas las cuales nos indican los diferentes tipos de búsquedas que podemos realizar, seleccionando por año, marca o modelo.
+
+Una vez filtrada la información mostrara todas las características referentes a la información seleccionada.
+
 
 
 # BOSQUEJO
