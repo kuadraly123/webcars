@@ -8,7 +8,7 @@
 
 # DESCRIPCIÓN
 
-##### El siguiente proyecto tiene como objetivo una interfaz grafica o dashboard donde se puede consumir datos desde un dataset que contiene la informacion de automoviles en el mercado, tales como: marca, modelo, año, etc. Asimismo los resultados, ya sea de un un mapeo general, informacion filtrada  o la acumulacion de la informacion se mostraran en la misma interfaz.
+#### El siguiente proyecto tiene como objetivo una interfaz grafica o dashboard donde se puede consumir datos desde un dataset que contiene la informacion de automoviles en el mercado, tales como: marca, modelo, año, etc. Asimismo los resultados, ya sea de un un mapeo general, informacion filtrada  o la acumulacion de la informacion se mostraran en la misma interfaz.
 
 la informacion se obtiene del siguiente dataset> https://github.com/jdorfman/awesome-json-datasets#cars
 
