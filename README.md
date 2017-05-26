@@ -6,7 +6,9 @@
 
 # DESCRIPCIÓN
 
-##### WebCars es una aplicación web que permite interactuar con un dataset basado en diferentes modelos de autos, contiene todas las marcas, modelos específicos y marcas vendidas en USA así como la ciudad de elaboración.
+##### El siguiente proyecto tiene como objetivo una interfaz grafica o dashboard donde se puede consumir datos desde un dataset que contiene la informacion de automoviles en el mercado, tales como: marca, modelo, año, etc. Asimismo los resultados, ya sea de un un mapeo general, informacion filtrada  o la acumulacion de la informacion se mostraran en la misma interfaz.
+
+la informacion se obtiene del siguiente dataset> https://github.com/jdorfman/awesome-json-datasets#cars
 
 * **¿Qué tipo de aplicación proponen construir a partir del conjunto de datos seleccionado?**
 °Se trataria desarrollar una interfaz sencilla donde el cliente o usuario encuentre lo que esta buscando como modelo ,año o cantidad del tipo de automovil que tiene a consideracion.
