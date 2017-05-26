@@ -22,7 +22,8 @@ Una vez filtrada la información mostrara todas las características referentes 
 
 
 
-# BOSQUEJO
+# BOSQUEJO  
+A continuacion se muestra la estructura del dashboard
 
-![](http://oi64.tinypic.com/2zdsmdx.jpg)
+![](https://github.com/simmarin/webcars/blob/master/dashboard-bosquejo.png)
 
